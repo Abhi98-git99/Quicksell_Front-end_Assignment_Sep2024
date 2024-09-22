@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Quicksell_Front-end_Assignment_Sep2024/static/css/main.4fa1f962.css",
+    "main.js": "/Quicksell_Front-end_Assignment_Sep2024/static/js/main.b88c8c25.js",
+    "static/js/453.f0f88b0d.chunk.js": "/Quicksell_Front-end_Assignment_Sep2024/static/js/453.f0f88b0d.chunk.js",
+    "index.html": "/Quicksell_Front-end_Assignment_Sep2024/index.html",
+    "main.4fa1f962.css.map": "/Quicksell_Front-end_Assignment_Sep2024/static/css/main.4fa1f962.css.map",
+    "main.b88c8c25.js.map": "/Quicksell_Front-end_Assignment_Sep2024/static/js/main.b88c8c25.js.map",
+    "453.f0f88b0d.chunk.js.map": "/Quicksell_Front-end_Assignment_Sep2024/static/js/453.f0f88b0d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4fa1f962.css",
+    "static/js/main.b88c8c25.js"
+  ]
+}
